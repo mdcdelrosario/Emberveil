@@ -157,7 +157,7 @@ Sounds are written to a temporary directory and played via the OS audio system:
 - `EmberButton` class with hover/leave animations
 - Launches `emberveil.py` (falls back to `game.py` if not found)
 
-### `emberveil.py`
+### `game.py`
 
 **Rendering pipeline (per frame, ~30fps):**
 1. Star twinkle pass
@@ -259,12 +259,6 @@ color = f"#{r:02x}{g:02x}{b:02x}"
 ```python
 fireflies = [Firefly(canvas) for _ in range(28)]  # change 28
 ```
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute. Attribution appreciated.
 
 ---
 
