@@ -5,7 +5,6 @@
 A cozy atmospheric indie game built in Python. Guide fireflies through a dark meadow veiled in shadow — charge ancient zones, bloom emberblooms, cleanse the darkness, and restore harmony to the night.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
